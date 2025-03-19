@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types'
+// import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom'
 function Header({text='FeedBack UI', bgColor='rgba(6, 6, 6, 0.4)', color='#ff6a95'}){
     const headerStyles = {
